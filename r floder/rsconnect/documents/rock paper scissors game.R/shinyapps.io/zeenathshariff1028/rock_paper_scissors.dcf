@@ -1,0 +1,12 @@
+name: rock_paper_scissors
+title: rock_paper_scissors
+username: zeenathshariff1028
+account: zeenathshariff1028
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13649506
+bundleId: 9584576
+url: https://zeenathshariff1028.shinyapps.io/rock_paper_scissors/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,12 @@
+name: dice_roller
+title: dice_roller
+username: zeenathshariff1028
+account: zeenathshariff1028
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13649380
+bundleId: 9584396
+url: https://zeenathshariff1028.shinyapps.io/dice_roller/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
